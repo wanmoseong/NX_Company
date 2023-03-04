@@ -4,7 +4,7 @@
 * Copyright (c)Nextersystems, Inc.
 *
 * If you want to use or are interested in this code, plz email to us js.lee@nextersystems.co.kr :)
-*
+* Thank you.
 * Company homepage : https://www.nextersystems.co.kr/
 /
 
